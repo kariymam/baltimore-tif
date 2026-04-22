@@ -1,12 +1,13 @@
-BLOCKLOT,FULLADDR,Orig_Criteria,Current_Criteria,TAXBASE,PERMHOME,SALEDATE,OWNER_1,OWNER_2,OWNER_3
-7437 009,2219 ANNAPOLIS ROAD,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,70200,N,2019-08-09,"HC-BALTIMORE, LLC",,
-7446 049,2332 SIDNEY AVE,2024 Rehabs/Sales for First Increment,2024 Rehabs/Sales for First Increment,53800,N,2023-04-03,"ANARKALEE, INC",,
-7437A007,2235 ANNAPOLIS ROAD,2023 Rehabs/Sales for First Increment,2023 Rehabs/Sales for First Increment,19000,N,2017-09-26,722DUNCAN LLC,,
-7463 027,2425 WESTPORT ST,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,40000,N,2016-11-14,"HC-BALTIMORE, LLC",,
-7449 029,2617 MAISEL ST,2023 Rehabs/Sales for First Increment,2023 Rehabs/Sales for First Increment,19000,N,2025-02-18,BALTIMORE EXCEL 06 LLC,,
-7437A030,2260 SIDNEY AVE,2023 Rehabs/Sales for First Increment,2023 Rehabs/Sales for First Increment,40000,N,1996-04-12,"BOYD, BERNICE A","BOYD, LYDIA E","BOYD, JOHN H"
-7446 007,2313 ANNAPOLIS ROAD,VBNs with open permits for increment,2024 Rehabs/Sales for First Increment,19300,N,2012-09-06,"10TH BALTIMORE ACQUISTION, LLC",,
-7419C020,2045 ANNAPOLIS ROAD,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,19000,N,2024-08-12,"ESTRADA, MARCO",,
-7445 057,2411 ANNAPOLIS ROAD,2024 Rehabs/Sales for First Increment,2024 Rehabs/Sales for First Increment,40000,N,2002-04-17,"WILLIAMSON, ANTONIO KENNETH",,
-7437A023,2246 SIDNEY AVE,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,19300,N,2024-12-04,"CROOKS, AILEMA",,
-7437 017,2214 SIDNEY AVE,Other VBN Acquisition on Priority Block,2025 Rehabs/Sales for First Increment,70200,N,1986-02-10,"WATFORD, BOBBY H","WATFORD, FLORENCE",
+FULLADDR_x,Orig_Criteria,Current_Criteria,FULLADDR_y,TAXBASE,PERMHOME,SALEDATE,OWNER_1,OWNER_2,OWNER_3
+2219 ANNAPOLIS ROAD,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,2219 ANNAPOLIS ROAD,53800,N,2023-04-03,"ANARKALEE, INC",,
+2332 SIDNEY AVE,2024 Rehabs/Sales for First Increment,2024 Rehabs/Sales for First Increment,2332 SIDNEY AVE,40000,N,1996-04-12,"BOYD, BERNICE A","BOYD, LYDIA E","BOYD, JOHN H"
+2235 ANNAPOLIS ROAD,2023 Rehabs/Sales for First Increment,2023 Rehabs/Sales for First Increment,2235 ANNAPOLIS ROAD,19000,N,2017-09-26,722DUNCAN LLC,,
+2425 WESTPORT ST,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,2425 WESTPORT ST,19300,N,2012-09-06,"10TH BALTIMORE ACQUISTION, LLC",,
+2617 MAISEL ST,2023 Rehabs/Sales for First Increment,2023 Rehabs/Sales for First Increment,2617 MAISEL ST,19300,N,2024-12-04,"CROOKS, AILEMA",,
+2260 SIDNEY AVE,2023 Rehabs/Sales for First Increment,2023 Rehabs/Sales for First Increment,2260 SIDNEY AVE,70200,N,2019-08-09,"HC-BALTIMORE, LLC",,
+2313 ANNAPOLIS ROAD,VBNs with open permits for increment,2024 Rehabs/Sales for First Increment,2313 ANNAPOLIS ROAD,70200,N,1986-02-10,"WATFORD, BOBBY H","WATFORD, FLORENCE",
+2045 ANNAPOLIS ROAD,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,2045 ANNAPOLIS ROAD,19000,N,2024-08-12,"ESTRADA, MARCO",,
+2411 ANNAPOLIS ROAD,2024 Rehabs/Sales for First Increment,2024 Rehabs/Sales for First Increment,2411 ANNAPOLIS ROAD,19000,N,2025-02-18,BALTIMORE EXCEL 06 LLC,,
+2246 SIDNEY AVE,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,2246 SIDNEY AVE,40000,N,2016-11-14,"HC-BALTIMORE, LLC",,
+2407 WESTPORT ST,VBNs with open permits for increment,2025 Rehabs/Sales for First Increment,2407 WESTPORT ST,18900,N,2024-07-03,EXPRESS PROPERTIES LLC,,
+2214 SIDNEY AVE,Other VBN Acquisition on Priority Block,2025 Rehabs/Sales for First Increment,2214 SIDNEY AVE,40000,N,2002-04-17,"WILLIAMSON, ANTONIO KENNETH",,
